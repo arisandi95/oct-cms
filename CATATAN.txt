@@ -1,0 +1,9 @@
+bikin theme sendiri custom dari scratch.
+namanya ACME
+
+
+//bikin plugin sendiri (kita buat plugin untuk membuat link2 gitu)
+buat plugin di folder plugins. eduonix->resources->plugin.php
+
+buat folder eduonix/resources/components trus buat folder links yang didalamnya ada file
+default.htm dan links.php difolder components

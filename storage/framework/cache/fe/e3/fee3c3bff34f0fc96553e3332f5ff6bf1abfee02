@@ -1,0 +1,45 @@
+1516376233a:1:{s:11:"contact.htm";a:10:{s:8:"fileName";s:11:"contact.htm";s:7:"content";s:787:"title = "Contact"
+url = "/contact"
+layout = "default"
+description = "contact us"
+is_hidden = 0
+==
+<div class="container">
+    <h1>Contact Us</h1>
+    <form>
+        <div class="form-group">
+            <label for="email">Email address:</label>
+            <input type="email" class="form-control" id="email">
+        </div>
+        <div class="form-group">
+            <label for="Name">Your Name:</label>
+            <input type="Name" class="form-control" id="Name">
+        </div>
+        <div class="form-group">
+            <label for="message">Message :</label>
+            <textarea name="message" id="message" cols="80" rows="5"></textarea>
+        </div>
+
+        
+        <button type="submit" class="btn btn-default">Submit</button>
+    </form>
+</div>";s:5:"mtime";i:1516375607;s:6:"markup";s:683:"<div class="container">
+    <h1>Contact Us</h1>
+    <form>
+        <div class="form-group">
+            <label for="email">Email address:</label>
+            <input type="email" class="form-control" id="email">
+        </div>
+        <div class="form-group">
+            <label for="Name">Your Name:</label>
+            <input type="Name" class="form-control" id="Name">
+        </div>
+        <div class="form-group">
+            <label for="message">Message :</label>
+            <textarea name="message" id="message" cols="80" rows="5"></textarea>
+        </div>
+
+        
+        <button type="submit" class="btn btn-default">Submit</button>
+    </form>
+</div>";s:4:"code";N;s:5:"title";s:7:"Contact";s:3:"url";s:8:"/contact";s:6:"layout";s:7:"default";s:11:"description";s:10:"contact us";s:9:"is_hidden";s:1:"0";}}
